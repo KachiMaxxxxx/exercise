@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Kachi's Site: Welcome to my blog!
 ---
